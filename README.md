@@ -44,7 +44,7 @@ i'm building a server management tool. here's what i'm planning:
   <img src="https://img.shields.io/badge/CSS-161b22?style=for-the-badge&logo=css&logoColor=663399" alt="CSS" />
   <img src="https://img.shields.io/badge/Lua-161b22?style=for-the-badge&logo=lua&logoColor=A6B8FF" alt="Lua" />
   <img src="https://img.shields.io/badge/Luau-161b22?style=for-the-badge&logo=luau&logoColor=00A2FF" alt="Luau" />
-  <img src="https://img.shields.io/badge/Luau-161b22?style=for-the-badge&logo=python&logoColor=00A2FF" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=00A2FF" alt="Python" />
 </p>
 
 ### currently learning
